@@ -1,5 +1,5 @@
 # Mandelbrot-Tree-Fractals
-Fractal Image generating program written in C++. All computations are done on the CPU not in real time. This program can generate Tree and Mandelbrot fractals fairly quickly. Uses the libpng library to generate png files.
+Fractal Image generating program written in C++. All computations are done on the CPU not in real time. This program can generate Tree and Mandelbrot fractals fairly quickly. Uses the libpng library to generate png files. Built in Xcode
 
 ![0](https://user-images.githubusercontent.com/57970967/177061322-62778cb3-7dec-434e-ac2c-ca7a77e89caf.png)
 
